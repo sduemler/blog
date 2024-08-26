@@ -1,9 +1,10 @@
-Welcome to this blog template by [cassidoo](https://cassidoo.co)!
+Hello! I'm Sam, welcome to my ⭐ `digital garden` ⭐. I like to write words and make music. I code things for money, and occasionally for fun.
 
-It's using Astro and TinaCMS. You can [clone it on GitHub](https://github.com/cassidoo/blahg) to use it for yourself, and see how it works! I would _love_ if you told me when you do use it, I love seeing variations on it!
+Based in Raleigh, NC. Chronically online.\
+From Cincinnati &rarr; OG East Nashville &rarr; Raleigh
 
-The tags at the bottom of the page are dynamically generated. The more tags you use, the more tags are added to the list! Posts are simple markdown files.
+You can check out my posts by date to get a sense of my different tswift eras, or if you're a quirky non-linear thinker or are only interested in some of what I talk about you can check out the tags at the bottom.
 
-You should also check out [my newsletter](https://cassidoo.co/newsletter), or my word game [Jumblie](https://jumblie.com/?utm_campaign=blahgtmp&utm_source=github), or my [GitHub profile](https://github.com/cassidoo). Or don't. Follow your dreams.
+The template for this site is shamelessly stolen from [cassidoo](https://cassidoo.co), she's cool and you should check her out!
 
-Enjoy!
+Brush your teeth and do what you want!
