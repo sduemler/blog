@@ -1,9 +1,16 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import netlify from '@astrojs/netlify/functions';
+import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
+  output: 'server',
+  server: {
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+    },
+  },
+  adapter: netlify(),
   site: 'https://chocobosam.com/',
   base: '/',
   integrations: [sitemap()],
@@ -13,11 +20,4 @@ export default defineConfig({
       langs: [],
     },
   },
-  output: 'server',
-  server: {
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-    },
-  },
-  adapter: netlify(),
 });
