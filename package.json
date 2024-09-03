@@ -19,7 +19,6 @@
 	},
 	"dependencies": {
 		"@astrojs/netlify": "^5.5.1",
-		"@netlify/edge-functions": "^2.10.0",
 		"@tinacms/cli": "^1.5.43",
 		"tinacms": "^1.6.1"
 	}
