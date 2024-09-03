@@ -6,9 +6,3 @@
 [[edge_functions]]
 	path = "/*"
 	function = "headers"
-[[redirects]]
-  from = "/*"
-  to = "https://content.tinajs.io/*"
-  status = 200
-  force = true
-  headers = { Access-Control-Allow-Origin = "*" }
