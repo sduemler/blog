@@ -12,27 +12,28 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 ![](/assets/IMG_1856.jpeg)
 
-\[[https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439\]("January](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439]\(%22January) 2025")
+[January 2025](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439)
 
 [February 2025](https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025)
 
-<a href="https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f">March 2025</a>
-[https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f](https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f)
+[March 2025](https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=7056533015524e32)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm\_source=generator](https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[April 2025](https://open.spotify.com/playlist/4iiUKP0l23aiWEpxHtQgrD?si=023d7cee75824cae)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/4zeA2uGssmJPoeXcHYNT6J?utm\_source=generator](https://open.spotify.com/embed/playlist/4zeA2uGssmJPoeXcHYNT6J?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[May 2025](https://open.spotify.com/playlist/4zeA2uGssmJPoeXcHYNT6J?si=d259aa11bb04450c)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/45aIRvSn4Fmfpoe9jZ4rMU?utm\_source=generator](https://open.spotify.com/embed/playlist/45aIRvSn4Fmfpoe9jZ4rMU?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[June 2025](https://open.spotify.com/playlist/45aIRvSn4Fmfpoe9jZ4rMU?si=8560352d906b4c0a)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/7gwEOF5dzBdb4dqfY9uWyx?utm\_source=generator](https://open.spotify.com/embed/playlist/7gwEOF5dzBdb4dqfY9uWyx?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[July 2025](https://open.spotify.com/playlist/7gwEOF5dzBdb4dqfY9uWyx?si=9fca5113e75a4b0d)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/2rQi7Y7aXrob5qE1v0idty?utm\_source=generator](https://open.spotify.com/embed/playlist/2rQi7Y7aXrob5qE1v0idty?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[August 2025](https://open.spotify.com/playlist/2rQi7Y7aXrob5qE1v0idty?si=53504547f4ac48ea)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/0j1zSHrcRIZsp16iBlGKZJ?utm\_source=generator](https://open.spotify.com/embed/playlist/0j1zSHrcRIZsp16iBlGKZJ?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[September 2025](https://open.spotify.com/playlist/0j1zSHrcRIZsp16iBlGKZJ?si=9c78956101dc4024)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/5kFyVNsjICPo3Ec5QnbMj7?utm\_source=generator](https://open.spotify.com/embed/playlist/5kFyVNsjICPo3Ec5QnbMj7?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[October 2025](https://open.spotify.com/playlist/5kFyVNsjICPo3Ec5QnbMj7?si=0c94412ac41845a5)
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/5N9t54LIdMzDtc0xMzmJTW?utm\_source=generator](https://open.spotify.com/embed/playlist/5N9t54LIdMzDtc0xMzmJTW?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[November 2025](https://open.spotify.com/playlist/5N9t54LIdMzDtc0xMzmJTW?si=531b23164d37422a)
 
-[https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
+[December 2025](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=17215d44b4494bfe)
+
+It's turning out to be a Remi Wolf January, so check back next year for that!
