@@ -12,7 +12,7 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 ![](/assets/IMG_1856.jpeg)
 
-[https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439 "January 2025")
+\[[https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439\]("January](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439]\(%22January) 2025")
 
 [https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025](https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025 "February 2025")
 
