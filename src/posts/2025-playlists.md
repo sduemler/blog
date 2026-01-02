@@ -10,11 +10,13 @@ added: 2026-01-02T03:07:09.869Z
 
 This past year I've stolen an idea from my good friend Mike to make playlists each month for what I have on repeat, old music or new. The point is to canonize my listening tastes for each portion of the year so that I can go back later like a time capsule and link what I was listening to with what I was doing at the time, since that is a strong connection for me. Plus since Spotify doesn't include December in their Wrappeds, I don't want that listening period to go missing even though it does give a more free time where I won't get snitched on for my music taste. No one's gonna know just how many times looped through Geese's album *Getting Killed*. I also get to sneak in a few more listens to Beibs without everyone knowing how much of a belieber I am. Here are all my playlists for the year!
 
-[\<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm\_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator "January 2025")
+![](/assets/IMG_1856.jpeg)
 
-[\<iframe data-testid="embed-iframe" style="border-radius:12px" src="](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator "January 2025")[https://open.spotify.com/embed/playlist/00CEMgwhjpsFlYz3xtNeyM?utm\_source=generator](https://open.spotify.com/embed/playlist/00CEMgwhjpsFlYz3xtNeyM?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439 "January 2025")
 
-\<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/5x88AkyQ1M29Xpiel8PbJm?utm\_source=generator](https://open.spotify.com/embed/playlist/5x88AkyQ1M29Xpiel8PbJm?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
+[https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025](https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025 "February 2025")
+
+[https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f](https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f)
 
 \<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm\_source=generator](https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
 
@@ -32,4 +34,4 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 \<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/5N9t54LIdMzDtc0xMzmJTW?utm\_source=generator](https://open.spotify.com/embed/playlist/5N9t54LIdMzDtc0xMzmJTW?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
 
-[https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab "December 2024")
+[https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
