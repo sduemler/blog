@@ -12,12 +12,6 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 ![](/assets/IMG_1856.jpeg)
 
-![Spotify](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
-
-![Spotify](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator)
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
-
 \<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm\_source=generator](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
 
 \<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/00CEMgwhjpsFlYz3xtNeyM?utm\_source=generator](https://open.spotify.com/embed/playlist/00CEMgwhjpsFlYz3xtNeyM?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
