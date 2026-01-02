@@ -12,9 +12,9 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 ![](/assets/IMG_1856.jpeg)
 
-![](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
+![Spotify](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
 
-![](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator)
+![Spotify](https://open.spotify.com/embed/playlist/20153VXBOl4Ysh8IsUpXJ9?utm_source=generator)
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=40bdb10b555545ab)
 
