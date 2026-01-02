@@ -14,8 +14,9 @@ This past year I've stolen an idea from my good friend Mike to make playlists ea
 
 \[[https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439\]("January](https://open.spotify.com/playlist/20153VXBOl4Ysh8IsUpXJ9?si=a6f0788cf2904439]\(%22January) 2025")
 
-[https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025](https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025 "February 2025")
+[February 2025](https://open.spotify.com/playlist/00CEMgwhjpsFlYz3xtNeyM?si=d5f8f06973ff4025)
 
+<a href="https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f">March 2025</a>
 [https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f](https://open.spotify.com/playlist/5x88AkyQ1M29Xpiel8PbJm?si=d167b99345fc492f)
 
 \<iframe data-testid="embed-iframe" style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm\_source=generator](https://open.spotify.com/embed/playlist/4iiUKP0l23aiWEpxHtQgrD?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">\</iframe>
