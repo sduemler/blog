@@ -6,9 +6,10 @@ description: 2025 playlists
 tags:
   - music
 added: 2026-01-02T03:07:09.869Z
+updated: 2026-01-01T05:00:00.000Z
 ---
 
-This past year I've stolen an idea from my good friend Mike to make playlists each month for what I have on repeat, old music or new. The point is to canonize my listening tastes for each portion of the year so that I can go back later like a time capsule and link what I was listening to with what I was doing at the time, since that is a strong connection for me. 
+This past year I've stolen an idea from my good friend Mike to make playlists each month for what I have on repeat, old music or new. The point is to canonize my listening tastes for each portion of the year so that I can go back later like a time capsule and link what I was listening to with what I was doing at the time, since that is a strong connection for me.
 
 Plus since Spotify doesn't include December in their Wrappeds, I don't want that listening period to go missing even though it does give a more free time where I won't get snitched on for my music taste. No one's gonna know just how many times looped through Geese's album *Getting Killed*. I also get to sneak in a few more listens to Beibs without everyone knowing how much of a belieber I am. Here are all my playlists for the year!
 
@@ -39,4 +40,3 @@ Plus since Spotify doesn't include December in their Wrappeds, I don't want that
 [December 2025](https://open.spotify.com/playlist/2bXJz6ynjUiAGR4pAKYupN?si=17215d44b4494bfe)
 
 It's turning out to be a Remi Wolf January, so check back next year for that!
-
