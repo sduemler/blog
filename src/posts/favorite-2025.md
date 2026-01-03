@@ -57,7 +57,7 @@ Ever since high school I have entertained the idea of going to a Renaissance Fai
 
 ### Geese band
 
-It’s been quite some time that I’ve fallen for a band as hard I fell into the Geese hole for all of December. According to [Last.fm](http://Last.fm), which is unfortunately the only way I have to keep track of this, I listened to Geese’s latest album Getting Killed 205 times over the course of 30 days. I first saw them mentioned in the Track Star show on YouTube where one of their tracks was being shown to Billy Corgan (who seemed nonplussed at best).“ It took me a few listen throughs to really get into it. At first it seemed sloppy, like someone had slapped a SM57 in the middle of a garage for a high school alt rock band rehearsal. Husbands” was the first song that really grabbed me, and from there the whole album opened up for me. I came to appreciate that sloppiness, showing that it truly doesn’t matter the quality as long as it has feeling and is a good song. Cameron Winter’s voice somehow feels lazy but also jam packed with emotion, verging on tears at points. I can’t decide if it’s effortless or him trying his best, but whatever it is I love it.
+It’s been quite some time that I’ve fallen for a band as hard I fell into the Geese hole for all of December. According to [Last.fm](http://last.fm), which is unfortunately the only way I have to keep track of this, I listened to Geese’s latest album Getting Killed 205 times over the course of 30 days. I first saw them mentioned in the Track Star show on YouTube where one of their tracks was being shown to Billy Corgan (who seemed nonplussed at best).“ It took me a few listen throughs to really get into it. At first it seemed sloppy, like someone had slapped a SM57 in the middle of a garage for a high school alt rock band rehearsal. Husbands” was the first song that really grabbed me, and from there the whole album opened up for me. I came to appreciate that sloppiness, showing that it truly doesn’t matter the quality as long as it has feeling and is a good song. Cameron Winter’s voice somehow feels lazy but also jam packed with emotion, verging on tears at points. I can’t decide if it’s effortless or him trying his best, but whatever it is I love it.
 
 In the car, working, on the plane back to Nashville for the holidays, Geese was my soundtrack for my December.
 
@@ -67,9 +67,7 @@ In the car, working, on the plane back to Nashville for the holidays, Geese was 
 
 This has been one of my favorite discoveries this year. I have only been using it for a few months, but I feel like it’s the tool that I’ve been wanting for years now. Before this tool every time I would come across a cool website or piece of art or article or thing I wanted to buy I would have to do the “Worth It” equation in my head, where I had to do the calculation of the thing was worth it to dedicate an entire bookmark to. I know this is silly since bookmarks are not a limited resource, but I like to keep my bookmarks tidy and organized. Notion and Instapaper solved a few of these issues for me, but I feel like I’m saving so many more things now that I can press a button in my browser or share it on my phone. I can clean out the space in my actual mind that was being used to do those calculations and just save something if it made me slow down just for a second to look at it. Cool new item from the MoMa store? Saved. Found an online file converter that isn’t just malware? Saved. Picture of pikachu saying he should believe in himself more? Saved.
 
-One thing that I’ve taken a lot from this year has been the Verge Installer newsletter that David Pierce puts out each Saturday. He has cost me much but given me joy. Thank you screw you David Pierce.
-
-Some runner ups that didn’t make the list but I really enjoyed in 2025:
+### Runner Ups
 
 * Colour box pedal
 * Olivia Dean
@@ -80,3 +78,5 @@ Some runner ups that didn’t make the list but I really enjoyed in 2025:
 * Brick device
 * Antinote
 * Kagi
+
+One thing that I’ve taken a lot from this year has been the Verge Installer newsletter that David Pierce puts out each Saturday. He has cost me much but given me joy. Thank you screw you David Pierce.
