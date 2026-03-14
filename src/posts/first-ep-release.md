@@ -2,7 +2,7 @@
 layout: ../layouts/BlogPost.astro
 title: EP RELEASE
 slug: first-ep-release
-description: 'A short announcement of my first EP. '
+description: Announcing my first EP
 tags:
   - music
   - personal
