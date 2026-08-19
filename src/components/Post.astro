@@ -2,12 +2,16 @@
 import { dateOf, slugOf } from "../scripts/getPosts";
 
 const { post } = Astro.props;
-const { title, description, tags, added } = post.data;
+const { title, description, tags, added, draft } = post.data;
 const slug = slugOf(post);
 const date = dateOf(added);
+
+// No dev-only guard needed: getPosts() filters drafts out of production
+// builds entirely, so this marker can only ever render locally.
 ---
 
-<li class="post">
+<li class:list={["post", { "is-draft": draft }]}>
+	{draft && <span class="draft-flag">draft</span>}
 	<a href={`/post/${slug}/`} class="title">{title}</a>
 	<time datetime={date.toISOString()}>
 		{

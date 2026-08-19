@@ -200,7 +200,30 @@ pre > code {
 	all: unset;
 }
 
-/* Shown on draft posts, which only ever render in dev */
+/* Draft markers. Drafts are filtered out of production builds, so anything
+   below only ever appears while running locally. */
+
+/* Inline badge on a post in any listing */
+.draft-flag {
+	display: inline-block;
+	border: 1px dashed var(--gray);
+	color: var(--gray);
+	font-size: 0.7rem;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	padding: 1px 6px;
+	margin-right: 8px;
+	vertical-align: 0.15em;
+}
+
+/* Whole listing row, so drafts are scannable in a long list */
+.post.is-draft {
+	border-left: 2px dashed var(--gray);
+	padding-left: 12px;
+	opacity: 0.75;
+}
+
+/* Full-width banner on the draft's own page */
 .draft-banner {
 	border: 1px dashed var(--gray);
 	color: var(--gray);
