@@ -1,12 +1,12 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: 2025 Playlists
 slug: 2025-playlists
 description: 2025 playlists
+draft: false
 tags:
   - music
-added: 2026-01-02T03:07:09.869Z
-updated: 2026-01-01T05:00:00.000Z
+added: 2026-01-01
+updated: 2026-01-01
 ---
 
 This past year I've stolen an idea from my good friend Mike to make playlists each month for what I have on repeat, old music or new. The point is to canonize my listening tastes for each portion of the year so that I can go back later like a time capsule and link what I was listening to with what I was doing at the time, since that is a strong connection for me.

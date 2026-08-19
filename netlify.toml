@@ -1,0 +1,14 @@
+# Build configuration lives here rather than in the Netlify UI so it is
+# version-controlled and travels with the branch. Settings in this file take
+# precedence over the dashboard.
+#
+# The dashboard command was `tinacms build && astro build`, left over from
+# TinaCMS. Tina is gone, so that command now fails before Astro runs.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Astro 7, astro-icon and @astrojs/react all require Node >= 22.12.0.
+  NODE_VERSION = "22"

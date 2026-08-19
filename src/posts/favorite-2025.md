@@ -1,14 +1,14 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: My Favorite Things From 2025
 slug: favorite-2025
 description: All my favorite things I started in 2025
+draft: false
 tags:
   - personal
   - music
   - gaming
   - health
-added: 2026-01-03T04:12:15.929Z
+added: 2026-01-02
 ---
 
 Warning: these are just things that I discovered or started using in 2025, it hasn’t necessarily come out in 2025. I like to think that I’m a tapped in 30 year old but there’s just too much to keep up with.

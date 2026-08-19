@@ -1,29 +1,25 @@
 import rss from "@astrojs/rss";
+import { getCollection } from "astro:content";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+import getPosts, { dateOf, slugOf } from "../scripts/getPosts";
 
-let posts = Object.values(import.meta.glob("../posts/*.md", { eager: true }));
+export async function GET(context) {
+	const posts = getPosts(await getCollection("posts"));
 
-posts = posts.sort(
-	(a, b) =>
-		new Date(b.frontmatter.updated || b.frontmatter.added).valueOf() -
-		new Date(a.frontmatter.updated || a.frontmatter.added).valueOf()
-);
-
-export const GET = () =>
-	rss({
+	return rss({
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
-		site: import.meta.env.SITE,
-		items: posts.map((post) => {
-			return {
-				link: `/post/${post.frontmatter.slug}`,
-				title: post.frontmatter.title,
-				pubDate: post.frontmatter.added,
-				description: post.frontmatter.description,
-				content: post.compiledContent(),
-				customData: `<updated>${
-					post.frontmatter.updated ? post.frontmatter.updated : ""
-				}</updated>`,
-			};
-		}),
+		site: context.site,
+		items: posts.map((post) => ({
+			link: `/post/${slugOf(post)}/`,
+			title: post.data.title,
+			pubDate: dateOf(post.data.added),
+			description: post.data.description,
+			// The content layer keeps the compiled HTML on the entry.
+			content: post.rendered?.html,
+			customData: post.data.updated
+				? `<updated>${dateOf(post.data.updated).toISOString()}</updated>`
+				: "",
+		})),
 	});
+}

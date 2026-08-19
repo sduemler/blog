@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: tweets I would tweet
 slug: tweets
 description: 'if I was on X: The Everything App'
+draft: false
 tags:
   - writing
-added: 2024-09-14T15:08:18.524Z
+added: 2024-09-14
 ---
 
 ### I'm not on X: The Everything App but here are the things that I would post if I was

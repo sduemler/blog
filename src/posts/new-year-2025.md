@@ -1,15 +1,15 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: New Year 2025
 slug: new-year-2025
 description: new year 2025
+draft: false
 tags:
   - learning
   - personal
   - writing
   - music
   - health
-added: 2025-01-02T18:28:19.538Z
+added: 2025-01-02
 ---
 
 I've been doing New Years resolutions for a few years now, and while I appreciate them as a way to set goals and try to shape the upcoming year from the start, something about staring at a list every few days with only a couple things crossed off gets demoralizing after a while. While I LOVE crossing things off of a TODO list, I think the greatest joy in it is being able to cross off the last thing and toss the sticky note I have it on away. Additionally, I don't believe that resolutions are really there to be crossed off, for me they are to shape what I would like the next 12 months to look like.

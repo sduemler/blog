@@ -1,13 +1,12 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: 'Klack: The app that I hate to love'
 slug: klack
 description: The journey to becoming a hypocrite
+draft: false
 tags:
   - musings
-added: 2026-05-31T18:09:45.541Z
+added: 2026-05-31
 ---
-
 I am a generational hater. I love to hate. Chief among them has been paying for small, inane things that do nothing to improve an experience. Some examples within this, at least in tech, would be buying ringtones (in the before times), or buying wallpapers, which I have been tempted to do. But at least now, in an age of AI, I have very little trust for someone selling wallpapers. Even phone apps, since there are so many free versions of things. After becoming a developer myself and gaining some disposable income, I have softened on this stance a bit, but really only for utilities like better weather info or guided meditations.
 
 However, there has been an app recently that I purchased that goes against all of this, one that I hate to love: the [Klack](https://tryklack.com/) app. An app that makes your keyboard on your MacBook sound like you’re typing on a mechanical keyboard. I hated the words that I just typed out, but damn if they didn’t sound good when I did it.
@@ -22,4 +21,4 @@ When I bought the app I thought, “Ah maybe I’ll get a few days’ use out of
 
 I’m always playing music whenever I’m working, but sometimes when I’m writing even instrumentals use up the creative part of my brain and gum up the words from coming out. Klack gives me a nice middle ground of a kind of white noise in the background that can keep my mind from wandering too far, but also subtle enough that I’m not trying to decipher where a song might go next. It also means I don’t look like a psychopath who just listens to static so that I can focus.
 
-I hate that I love it this much, but at this point I don’t think I have any grounds to deny it. It always makes me a little more excited to type something out long form, albeit to a lesser degree than a real mechanical keyboard. I love this silly little app, and I can’t wait to try out any new keyboard types that get added to it. 
+I hate that I love it this much, but at this point I don’t think I have any grounds to deny it. It always makes me a little more excited to type something out long form, albeit to a lesser degree than a real mechanical keyboard. I love this silly little app, and I can’t wait to try out any new keyboard types that get added to it.

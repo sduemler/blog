@@ -1,37 +1,26 @@
 ---
+import { getCollection } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import ColorScript from "../components/ColorScript.astro";
 import Tags from "../components/Tags.astro";
-import getTags from "../scripts/getTags";
+import getPosts, { getTags, dateOf } from "../scripts/getPosts";
 
-const posts = await Astro.glob("../posts/*.md");
-const allTags = getTags(posts);
+const { post } = Astro.props;
+const { title, description, added, updated, tags, draft } = post.data;
 
-let {
-	content: { title, description, added, updated, tags, heroImage },
-} = Astro.props;
+const allTags = getTags(getPosts(await getCollection("posts")));
 
-added = new Date(added).toLocaleDateString(
-	"en-us",
-	{
+const fmt = (value) =>
+	dateOf(value).toLocaleDateString("en-us", {
 		year: "numeric",
 		month: "short",
 		day: "numeric",
-	}
-);
+	});
 
-if (updated) {
-	updated = new Date(updated).toLocaleDateString(
-		"en-us",
-		{
-			year: "numeric",
-			month: "short",
-			day: "numeric",
-		}
-	);
-}
+const addedLabel = fmt(added);
+const updatedLabel = updated ? fmt(updated) : null;
 ---
 
 <html lang="en-us">
@@ -41,12 +30,12 @@ if (updated) {
 		<Header />
 		<main>
 			<article>
-				{heroImage && <img width={720} height={360} src={heroImage} alt="" />}
+				{draft && <p class="draft-banner">Draft &mdash; only visible locally, not published.</p>}
 				<h1 class="article-title">{title}</h1>
-				{updated ?
-					<span><time>{added}</time>, last updated on <time>{updated}</time></span>
+				{updatedLabel ?
+					<span><time>{addedLabel}</time>, last updated on <time>{updatedLabel}</time></span>
 					:
-					<span>{added && <time>{added}</time>}</span>
+					<span><time>{addedLabel}</time></span>
 				}
 				<Tags tags={tags} />
 				<hr />
