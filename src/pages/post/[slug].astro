@@ -1,19 +1,23 @@
 ---
-// Credit to @rachsmithcodes for this function
-export async function getStaticPaths() {
-	let posts = await Astro.glob(`../../posts/*.md`);
+import { getCollection, render } from "astro:content";
+import BlogPost from "../../layouts/BlogPost.astro";
+import getPosts, { slugOf } from "../../scripts/getPosts";
 
-	return posts.map((post) => {
-		return {
-			params: { slug: post.frontmatter.slug },
-			props: { post: post },
-		};
-	});
+export async function getStaticPaths() {
+	// getPosts() drops drafts, so no page is built for them at all. Filtering
+	// only the listings would leave a draft live at its own URL.
+	const posts = getPosts(await getCollection("posts"));
+
+	return posts.map((post) => ({
+		params: { slug: slugOf(post) },
+		props: { post },
+	}));
 }
 
 const { post } = Astro.props;
-const { Content } = post;
+const { Content } = await render(post);
 ---
 
-<Content />
-
+<BlogPost post={post}>
+	<Content />
+</BlogPost>

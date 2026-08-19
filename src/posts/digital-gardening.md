@@ -1,12 +1,12 @@
 ---
-layout: ../layouts/BlogPost.astro
 title: Digital Gardening
 slug: digital-gardening
 description: I am now a DIGITAL GARDENER
+draft: false
 tags:
   - personal
   - writing
-added: 2024-09-07T23:24:07.320Z
+added: 2024-09-07
 ---
 
 ## Digital Gardening

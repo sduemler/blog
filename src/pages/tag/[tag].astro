@@ -1,4 +1,5 @@
 ---
+import { getCollection } from "astro:content";
 import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
@@ -6,42 +7,31 @@ import Post from "../../components/Post.astro";
 import ColorScript from "../../components/ColorScript.astro";
 
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../config";
+import getPosts from "../../scripts/getPosts";
 
 // Credit to @rachsmithcodes for helping out my lil ol brain
 export async function getStaticPaths() {
-	let posts = await Astro.glob(`../../posts/*.md`);
-	const tags = posts.reduce((allTags, post) => {
-		const postTags = post.frontmatter.tags;
-		if (postTags) {
-			postTags.forEach((tag) => {
-				if (!allTags[tag]) {
-					allTags[tag] = [];
-				}
-				allTags[tag].push(post);
-			});
+	const posts = getPosts(await getCollection("posts"));
+
+	const byTag = posts.reduce((all, post) => {
+		for (const tag of post.data.tags ?? []) {
+			(all[tag] ??= []).push(post);
 		}
-		return allTags;
+		return all;
 	}, {});
 
-	return Object.keys(tags).map((t) => {
-		return {
-			params: { tag: t },
-			props: { tag: tags[t] },
-		};
-	});
+	return Object.entries(byTag).map(([tag, tagPosts]) => ({
+		params: { tag },
+		props: { posts: tagPosts },
+	}));
 }
 
-const { tag } = Astro.props;
+// Already filtered and sorted by getPosts() in getStaticPaths.
+const { posts } = Astro.props;
 const { tag: currentTag } = Astro.params;
-
-let sortedPosts = tag.sort(
-	(a, b) =>
-		new Date(b.frontmatter.added).valueOf() -
-		new Date(a.frontmatter.added).valueOf()
-);
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-us">
 	<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	<body>
@@ -50,14 +40,7 @@ let sortedPosts = tag.sort(
 			<content>
 				<h3>Posts tagged with "{currentTag}"</h3>
 				<ul class="tags-list">
-					{
-						sortedPosts.map(
-							({
-								url,
-								frontmatter: { description, slug, title, tags, added: date },
-							}) => <Post {url} {description} {date} {slug} {title} {tags} />
-						)
-					}
+					{posts.map((post) => <Post post={post} />)}
 				</ul>
 			</content>
 			<Footer />
