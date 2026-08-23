@@ -7,9 +7,14 @@ Personal blog built with [Astro](https://astro.build) and [Keystatic](https://ke
 ```bash
 npm install
 npm run dev        # site at localhost:4321, editor at localhost:4321/keystatic
+npm run cms        # same dev server, but opens straight to the editor
 npm run build      # builds to ./dist/
 npm run preview    # preview production build locally
 ```
+
+`npm run dev` also prints the editor URL under Astro's own startup banner, so
+it's one click away without typing the path. If port 4321 is taken, Astro moves
+to the next free port and both the banner and `npm run cms` follow it.
 
 No environment variables or API keys are needed.
 

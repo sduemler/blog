@@ -4,6 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "astro dev",
+		"cms": "astro dev --open /keystatic",
 		"start": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",
