@@ -154,6 +154,14 @@ ul.tags-list {
 	font-size: 1.3em;
 }
 
+/* Astro 7 strips whitespace between inline elements (compressHTML: 'jsx'),
+   so the newline between the title link and the <time> tag no longer renders
+   as a space. Spacing is set here rather than relying on source whitespace,
+   the same way .tag does it. */
+.post time {
+	margin-left: 0.6em;
+}
+
 .tags {
 	display: flex;
 	flex-wrap: wrap;
