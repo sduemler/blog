@@ -1,5 +1,5 @@
 ---
-title: my Oh myMind
+title: my oh myMind
 slug: my-oh-my-mind
 description: My new dump site
 draft: false
